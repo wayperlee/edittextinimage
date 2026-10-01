@@ -22,7 +22,6 @@ classifiers = [
 Homepage = "https://edittextinimage.com/"
 Documentation = "https://edittextinimage.com/"
 Source = "https://github.com/wayperlee/edittextinimage"
-Support = "mailto:support@edittextinimage.com"
 
 [tool.setuptools.packages.find]
 where = ["src"]
